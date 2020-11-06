@@ -1,0 +1,14 @@
+D:\Проект на собеседование\TZ\TZ\bin\Debug\TZ.exe.config
+D:\Проект на собеседование\TZ\TZ\bin\Debug\TZ.exe
+D:\Проект на собеседование\TZ\TZ\bin\Debug\TZ.pdb
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.csprojAssemblyReference.cache
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.Properties.Resources.resources
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.csproj.GenerateResource.cache
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.csproj.CoreCompileInputs.cache
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.exe
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.pdb
+D:\Проект на собеседование\TZ\TZ\bin\Debug\study.mdf
+D:\Проект на собеседование\TZ\TZ\bin\Debug\study_log.ldf
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.Documents.resources
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.Firms.resources
+D:\Проект на собеседование\TZ\TZ\obj\Debug\TZ.Index.resources
